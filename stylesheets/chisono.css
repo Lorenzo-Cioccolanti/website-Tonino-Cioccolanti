@@ -248,11 +248,12 @@ footer{
     font-size:15px;
     }
 
-
-
-a:link{
-    color: white;
+footer a:hover{
+    color:rgb(141, 132, 179);
+    cursor:pointer;
+    text-decoration: underline;
 }
+
 
 main h3{
     color:rgb(40, 40, 42);
@@ -267,11 +268,7 @@ main p{
 
 
 
-footer a:hover{
-    color:grey;
-    cursor:pointer;
-    text-decoration: underline;
-}
+
 
 /*div.spam a{
     color:rgb(142, 189, 0);
@@ -308,4 +305,5 @@ p.author{
     }
 
 }
+
 
