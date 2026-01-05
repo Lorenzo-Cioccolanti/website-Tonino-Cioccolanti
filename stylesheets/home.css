@@ -29,7 +29,7 @@ nav{
     box-shadow: 0px 1px 40px 0;
     background-color: white;
     width:100vw;
-    min-height:8vh;
+    height:8vh;
     display:flex;
     justify-content: center;
     align-items:center;
@@ -363,6 +363,7 @@ div.principal-service-group{
 }
 
 
+
 div.principal-service{
     height: auto;
     display:flex;
@@ -634,9 +635,7 @@ div.first-part a.description-image{
 
 }
 
-div.curricolum-image{
-    
-}
+
 
 div.p-button{
 
@@ -657,6 +656,5 @@ div.p-button{
 }
 
 }
-
 
 
