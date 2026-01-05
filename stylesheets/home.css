@@ -499,14 +499,9 @@ div.principal-service{
     font-size:15px;
     }
 
-    a:link
-    {
-        color: white;
-    }
-
     footer a:hover
     {
-        color:grey;
+        color:rgb(141, 132, 179);
         cursor:pointer;
         text-decoration: underline;
     }
@@ -655,6 +650,7 @@ div.p-button{
 }
 
 }
+
 
 
 
