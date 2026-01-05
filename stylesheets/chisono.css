@@ -44,7 +44,7 @@ nav{
     box-shadow: 0px 1px 40px 0;
     background-color: white;
     width:100vw;
-    height:8vh;
+    min-height:8vh;
     display:flex;
     justify-content: center;
     align-items:center
@@ -306,3 +306,4 @@ p.author{
     }
 
 }
+
